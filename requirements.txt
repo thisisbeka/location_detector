@@ -1,6 +1,5 @@
-streamlit==1.25.0
-pillow==10.0.0
-pytesseract==0.3.10
-pandas==2.1.0
-folium==0.14.0
-streamlit-folium==0.12.0
+pillow
+pytesseract
+pandas
+folium
+streamlit-folium
